@@ -7,6 +7,7 @@ Author:
 -------
     *Luz Clarita
 
-Notas de la Version:
---------------------
-    *Cambios que no son seguros.
+Creditos:
+---------
+	*Rosa Maria Palacios
+		*Berta
